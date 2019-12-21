@@ -69,13 +69,6 @@ razer_device __DQ_DEVICES[] = {
         .usbId = 0x0F08,
         .synapse = synapse3,
         .type = misc_basestation
-    },
-    {
-        .shortName = "razer_nari",
-        .fullName = "Razer Nari",
-        .usbId = 0x051c,
-        .synapse = synapse3,
-        .type = headphones
     }
 };
 
